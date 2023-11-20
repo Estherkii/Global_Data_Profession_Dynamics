@@ -14,7 +14,7 @@ This project delves into the Global Data Profession Dynamics, providing a compar
 
 ## Data Adquisition
 
-[Kaggle](https://www.kaggle.com/datasets)
+* [Kaggle](https://www.kaggle.com/datasets)
 
 ## Hypothesis
 
