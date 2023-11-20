@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project delves into the Global Data Profession Dynamics, providing a comparative analysis of salary trends and geographic distribution exclusively through SQL and Tableau. It focuses on the intricacies of the data profession, examining the fluctuation in salaries and the dispersal of data roles worldwide. Utilizing SQL for data manipulation and querying, the project consolidates and interprets extensive salary information, which is then vividly brought to life through Tableau visualizations. The end product is a tableau dashboard that not only offers a narrative on the evolving landscape of the data profession but also serves as a decision-making tool for stakeholders analyzing global salary trends and the strategic placement of data talent.
+This project explores the Global Data Profession Dynamics, providing a comparative analysis of salary trends and geographic distribution exclusively through SQL and Tableau. It focuses on the intricacies of the data profession, examining the fluctuation in salaries and the dispersal of data roles worldwide. Utilizing SQL for data manipulation and querying, the project consolidates and interprets extensive salary information, which is then vividly brought to life through Tableau visualizations. The end product is a tableau dashboard that not only offers a narrative on the evolving landscape of the data profession but also serves as a decision-making tool for stakeholders analyzing global salary trends and the strategic placement of data talent.
 
 ## Data Analysis Pipeline
 
