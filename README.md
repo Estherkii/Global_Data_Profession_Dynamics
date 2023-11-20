@@ -54,4 +54,4 @@ Geographically, there's a notable concentration of high-paying remote jobs in sp
 
 The data industry's global footprint reveals significant disparities in salary and job distribution, influenced by economic strength and market demands specific to each region. For example, the variance in average salaries for roles like Data Scientists, Data Managers, and Data Analysts between European and non-European countries not only illustrates the economic disparity but also the different market demands for data expertise across these regions. This diversity in compensation reflects the broader global salary distribution, potentially prompting data professionals to seek opportunities in markets that offer better financial incentives.
 
-Check the visualizations through [Tableau Public]([https://github.com](https://public.tableau.com/app/profile/esther.tirado.martinez/viz/DA_Salaries/DA_Salaries?publish=yes).
+Check the visualizations through [Tableau Public](https://public.tableau.com/app/profile/esther.tirado.martinez/viz/DA_Salaries/DA_Salaries?publish=yes).
