@@ -9,8 +9,8 @@ This project delves into the Global Data Profession Dynamics, providing a compar
 1. Extract data
 2. Load that data into SQL and transform it
 3. Answer as many questions as possible by running SQL queries
-4. Export the result of those queries as csv files
-5. Create stories/dashboards in Tableau
+4. Export data to a csv file.
+5. Create stories/dashboards using queries in Tableau
 
 ## Data Adquisition
 
