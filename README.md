@@ -4,6 +4,18 @@
 
 This project delves into the Global Data Profession Dynamics, providing a comparative analysis of salary trends and geographic distribution exclusively through SQL and Tableau. It focuses on the intricacies of the data profession, examining the fluctuation in salaries and the dispersal of data roles worldwide. Utilizing SQL for data manipulation and querying, the project consolidates and interprets extensive salary information, which is then vividly brought to life through Tableau visualizations. The end product is a tableau dashboard that not only offers a narrative on the evolving landscape of the data profession but also serves as a decision-making tool for stakeholders analyzing global salary trends and the strategic placement of data talent.
 
+## Data Analysis Pipeline
+
+1. Extract data
+2. Load that data into SQL and transform it
+3. Answer as many questions as possible by running SQL queries
+4. Export the result of those queries as csv files
+5. Create stories/dashboards in Tableau
+
+## Data Adquisition
+
+[Kaggle](https://www.kaggle.com/datasets)
+
 ## Hypothesis
 
 ### 1. Salary Insights and Tends
