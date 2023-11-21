@@ -20,7 +20,7 @@ This project explores the Global Data Profession Dynamics, providing a comparati
 
 ### 1. Salary Insights and Tends
 
-![image](https://github.com/Estherkii/project-IV-sql-tableau/assets/123992666/d4f2086e-3130-4d45-a294-e2953338cd14)
+![image](https://github.com/Estherkii/project-IV-sql-tableau/assets/123992666/ebec7088-007b-4a89-b368-dec69e441b98)
 
 The image provides a detailed analysis of salary progression over time for various roles in the data sector, contrasting these figures with the disparities in compensation across different regions. It's evident that the value placed on roles such as data architects and engineers has escalated, as indicated by the upward trajectory of salaries from 2020 to 2023. This pattern suggests a growing recognition of the strategic importance of these roles in leveraging data for business insights and decision-making. The steep incline for data architects, in particular, highlights their pivotal role in shaping the information frameworks that are critical for storing, processing, and analyzing large datasets.
 
@@ -28,7 +28,7 @@ When considering regional salary data, it becomes apparent that there are signif
 
 ### 2. Remote Work and Its Impact
 
-![image](https://github.com/Estherkii/project-IV-sql-tableau/assets/123992666/244ba24d-1258-483e-a75b-973a3b73fb97)
+![image](![image](https://github.com/Estherkii/project-IV-sql-tableau/assets/123992666/3fea0c29-ed6e-447c-beb6-6a8f82016dce)
 
 The graphic, which maps out the geographical distribution of salaries for positions in the data sector, can offer a wealth of insights into global employment trends in the tech industry.
 
@@ -38,7 +38,7 @@ The variety of colors denote the prevalence of remote work opportunities in thes
 
 ### 3. Company Dynamics and Structure
 
-![image](https://github.com/Estherkii/project-IV-sql-tableau/assets/123992666/fd75bb1e-d44a-4326-857a-bff53fa96751)
+![image](https://github.com/Estherkii/project-IV-sql-tableau/assets/123992666/beea6823-20ea-45e8-a21a-89253db1b335)
 
 The geographical distribution of job titles as shown by the map suggests a hypothesis that the data industry's job market is not uniform across the globe. Regions with a higher concentration of dots may indicate tech hubs or economic centers where there's a greater demand for data professionals. The size and color variations of these dots correspond to the number of positions available for the different roles.
 
@@ -46,7 +46,7 @@ The bar graph indicating the impact of company size on salaries provides another
 
 ### 4. Experience Level, Job Positions, and Country-Specific Earning
 
-![image](https://github.com/Estherkii/project-IV-sql-tableau/assets/123992666/72dd87bc-9b49-429b-9717-835fb57fccc9)
+![image](![image](https://github.com/Estherkii/project-IV-sql-tableau/assets/123992666/ef57512f-f5ea-45b4-aa5c-c31434dd9d6e)
 
 There is a clear increase of salaries among different experience levels in the data profession. It suggests that as professionals advance from junior to senior levels, their compensation increases significantly. This could be due to the higher value placed on their accumulated knowledge, expertise, and their ability to manage complex projects and lead teams. The second graph extends this hypothesis by indicating that not only does experience influence salary, but geographical location does as well. Countries vary widely in the salaries offered for similar roles, which may reflect local economic conditions, the cost of living, or the demand for data professionals in those markets.
 
